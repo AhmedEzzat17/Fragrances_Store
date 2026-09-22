@@ -28,7 +28,7 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
-  title: "Storefront",
+  title: "Fragrances Store",
   description: "Browse products and manage a shopping cart.",
 };
 
